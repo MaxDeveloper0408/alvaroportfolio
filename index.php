@@ -33,7 +33,7 @@
 	    <!-- Brand-->
 	    <a class="navbar-brand" href="#">Alvaro Alvarez.</a>
 		<div class="container d-block">
-	        <span class="email  my-0 d-none d-md-block">maxdevsmart0408@gmail.com</span>
+	        <span class="email  my-0 d-none d-md-block" style="font-weight: 800;color: #0049ff!important;">maxdevsmart0408@gmail.com</span>
 		</div>
 
 	    <!-- Toggler -->
