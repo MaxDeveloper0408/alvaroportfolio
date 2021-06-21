@@ -312,7 +312,7 @@
 						  <a href="https://dentalmarketo.com" class="project-box">
 						     <div class="project-box-inner">
 						        <h4>Dental Marketo</h4>
-						        <div class="project-category">Wordpress</div>
+						        <div class="project-category">React | Wordpress</div>
 						     </div>
 						  </a>
 						</div>
@@ -320,7 +320,7 @@
 						  <a href="https://ixlayer.com" class="project-box">
 						     <div class="project-box-inner">
 						        <h4>Ixlayer</h4>
-						        <div class="project-category">Wordpress | Laravel</div>
+						        <div class="project-category">Wordpress | Laravel | React</div>
 						     </div>
 						  </a>
 						</div>
@@ -336,7 +336,7 @@
 						  <a href="https://victoryyoga.com.au" class="project-box">
 						     <div class="project-box-inner">
 						        <h4>Vitory Yoga</h4>
-						        <div class="project-category">Laravel | Vue Booking System</div>
+						        <div class="project-category">Laravel | React Booking System</div>
 						     </div>
 						  </a>
 						</div>
