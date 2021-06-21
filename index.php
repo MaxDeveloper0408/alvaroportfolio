@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/jquery.pagepiling.min.css">
     <link rel="stylesheet" href="css/style.css">
 
-    <title>Max. - Portfolio</title>
+    <title>Alvaro Alvarez. - Portfolio</title>
   </head>
 <body>
    
@@ -31,9 +31,8 @@
       <div class="position-relative w-100">
 
 	    <!-- Brand-->
-	    <a class="navbar-brand" href="#">Max.</a>
+	    <a class="navbar-brand" href="#">Alvaro Alvarez.</a>
 		<div class="container d-block">
-	      <span class="phone  my-0 d-none d-md-block">+7 909 486 22 43</span>
 	        <span class="email  my-0 d-none d-md-block">maxdevsmart0408@gmail.com</span>
 		</div>
 
@@ -57,7 +56,7 @@
 	  </div>
 
 	  <!-- Copyright -->
-	  <div class="copy d-none d-sm-block">© Max. 2020.</div>
+	  <div class="copy d-none d-sm-block">© Alvaro Alvarez. 2020.</div>
     </nav>
 
     <!-- Navbar Mobile -->  
@@ -76,7 +75,7 @@
         <li><a class="nav-link" data-menuanchor="contact" href="#contact">Contact</a></li>
       </ul>
       <div class="navbar-mobile-footer">
-        <p>© Max. 2020. All Rights Reserved.</p>
+        <p>© Alvaro Alvarez. 2020. All Rights Reserved.</p>
       </div>
     </nav>
 
@@ -90,7 +89,7 @@
 	            <div class="row">
 	              <div class="col-lg-6 col-xl-5">
 	              	<div class="mb-2">I'm Full Stack<br> Developer</div>
-	                <h1 class="text-white"><span class="text-primary text-typed a-typed a-typed-about">Hello,</span> my name is Max.</h1>
+	                <h1 class="text-white"><span class="text-primary text-typed a-typed a-typed-about">Hello,</span> my name is Alvaro Alvarez.</h1>
 	                <div class="line"></div>
 	            </div>
 	            </div>
@@ -109,9 +108,10 @@
                   <div class="mb-4 text-dark">My specialization</div>
                   <h2>I am a trending <br><span class="text-primary">developer</span>  who cares<br> about the details</h2>
                   <div class="mt-5 pt-2">
+                    <p>REACT/REDUX</p>
+                    <p>NODE</p>
                     <p>WORDPRESS</p>
                     <p>JAVASCRIPT FRAMEWORKS</p>
-                    <p>NODE</p>
                     <p>PHP FRAMEWORKS</p>
                     <p>WOOCOMMERCE</p>
                     <p>SHOPIFY</p>
@@ -394,18 +394,18 @@
 	            	<div class="carousel-testimonials owl-carousel">
 	            		<div>
 	            			<p class="mb-5"><strong>Fernando Robles</strong><br>Markeing Revive LLC, Florida</p>
-		            		<p>“I am pleased with the quality of work Keyideas has delivered and your Project Development capabilities. Your quick response with fast turnaround time has really impressed me. I take pride in making my decision to work with you. Max has been an honest developer with highest work ethics. I’d not hesitate to recommend Max to anyone.
+		            		<p>“I am pleased with the quality of work Keyideas has delivered and your Project Development capabilities. Your quick response with fast turnaround time has really impressed me. I take pride in making my decision to work with you. Alvaro Alvarez has been an honest developer with highest work ethics. I’d not hesitate to recommend Alvaro Alvarez to anyone.
 							</p>
 							
 	            		</div>
 	            		<div>
 	            			<p class="mb-5"><strong>Rene</strong><br>M6 Connect</p>
-		            		<p>“ We have been working with Max for two years to develop a robust software application that supports the company’s daily activities. Max is highly responsive and professional in providing us deliverables on a periodical basis.
+		            		<p>“ We have been working with Alvaro Alvarez for two years to develop a robust software application that supports the company’s daily activities. Alvaro Alvarez is highly responsive and professional in providing us deliverables on a periodical basis.
 							</p>
 	            		</div>
 	            		<div>
 	            			<p class="mb-5"><strong>Aurelio</strong><br>Victory Yoga</p>
-		            		<p>“ Working with Max has been a fantastic experience. Their code is great to work with and they’re fast in putting things together. Max has been efficient, and proactive in finding issues and solving them at the right time. I hope I get the chance to work with him again in the near future!
+		            		<p>“ Working with Alvaro Alvarez has been a fantastic experience. Their code is great to work with and they’re fast in putting things together. Alvaro Alvarez has been efficient, and proactive in finding issues and solving them at the right time. I hope I get the chance to work with him again in the near future!
 							</p>
 	            		</div>
 	            	</div>
