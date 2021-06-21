@@ -146,8 +146,8 @@
 		              	<div class="col-md-4">2018-2020 <h3 class="my-0 text-white">Marketing Revive</h3></div>
 		              	<div class="col-md-4">
 							<p>
+							- Front End modern template with React/HTML/Boostrap4,5/SASS. <br>
 							- Dental marketing site with Wordpress. <br>
-							- Front End modern template with HTML/Boostrap4,5/SASS. <br>
 							- High Google page speed on Mobile and Desktop: 80, 99<br>
 							- Hosting Server Security<br>
 							- Woocommerce and Shopify E-commerce site.<br>
@@ -161,6 +161,7 @@
 		              	<div class="col-md-4">
 		              		<p>
 		              			- Laravel + Vue/Vuex Senior Developer Position <br>
+		              			- React/Redux Senior Developer Position <br>
 		              			- Wordpress Theme and Plugin Developer
 		              		</p>
 
@@ -217,6 +218,15 @@
                 <h2>My mission is <span class="text-primary">develop</span> best website</h2>
                 <p>I will help you build your classic website and grow your business. I create clarifying strategy, clean, accelerate web site based on talent business logic</p>
 	          	<div class="mt-5 pt-2">
+				  <div class="progress-item">
+		            <div class="row">
+	              	  <h6 class="col-md-6 mt-0">React</h6>
+	              	  <h6 class="col-md-6 text-right mt-0">90%</h6>
+	          	    </div>
+		            <div class="progress mb-3">
+		              <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+		            </div>
+		          </div>
 	          	  <div class="progress-item">
 	              	<div class="row">
 		              <h6 class="col-md-6 mt-0">Wordpress</h6>
@@ -227,15 +237,6 @@
 			          </div>
 			        </div>
 			      </div>
-			      <div class="progress-item">
-		            <div class="row">
-	              	  <h6 class="col-md-6 mt-0">React</h6>
-	              	  <h6 class="col-md-6 text-right mt-0">90%</h6>
-	          	    </div>
-		            <div class="progress mb-3">
-		              <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-		            </div>
-		          </div>
 		          <div class="progress-item">
 		            <div class="row">
 	              	  <h6 class="col-md-6 mt-0">Vue</h6>
@@ -427,7 +428,6 @@
 					 	<h2 class="text-white">Contact</h2>
 					 	<p class="text-muted">You'll called for yielding male, so lights
 Stars abundantly, is their.</p>
-				<h3 class="text-white">+7 909 486 22 43</h3>
 				<p class="text-muted mt-3">maxdevsmart0408@gmail.com</p>
 				 </div>
 				 <div class="col-md-5 offset-md-2">
