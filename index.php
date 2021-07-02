@@ -33,7 +33,7 @@
 	    <!-- Brand-->
 	    <a class="navbar-brand" href="#">Alvaro Alvarez.</a>
 		<div class="container d-block">
-	        <span class="email  my-0 d-none d-md-block" style="font-weight: 800;color: #0049ff!important;">maxdevsmart0408@gmail.com</span>
+	        <span class="email  my-0 d-none d-md-block" style="font-weight: 800;color: #0049ff!important;"></span>
 		</div>
 
 	    <!-- Toggler -->
@@ -428,7 +428,7 @@
 					 	<h2 class="text-white">Contact</h2>
 					 	<p class="text-muted">You'll called for yielding male, so lights
 Stars abundantly, is their.</p>
-				<p class="text-muted mt-3">maxdevsmart0408@gmail.com</p>
+				<p class="text-muted mt-3"></p>
 				 </div>
 				 <div class="col-md-5 offset-md-2">
 				 	<h3 class="text-white mt-0">Let's grab a coffee and jump on conversation <span class="text-primary">chat with me.</span></h3>
