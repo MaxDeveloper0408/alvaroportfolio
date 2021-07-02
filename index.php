@@ -419,43 +419,6 @@
 
 
       <!-- Contact -->  
-      <section id="contact" class="navbar-is-white text-white section pp-scrollable position-absolute" style="background-image:url('img/bg/contact.jpg');">
-        <div class="intro">
-          <div class="scroll-wrap">
-	          <div class="container">
-		          <div class="row">
-					 <div class="col-md-4">
-					 	<h2 class="text-white">Contact</h2>
-					 	<p class="text-muted">You'll called for yielding male, so lights
-Stars abundantly, is their.</p>
-				<p class="text-muted mt-3"></p>
-				 </div>
-				 <div class="col-md-5 offset-md-2">
-				 	<h3 class="text-white mt-0">Let's grab a coffee and jump on conversation <span class="text-primary">chat with me.</span></h3>
-				 	<div class="mt-5">
-						<form class="js-ajax-form">
-							<div class="form-group">
-				               <input type="text" name="name" class="form-control" placeholder="Name">
-				            </div>
-				             <div class="form-group">
-				               <input type="email" name="email"  class="form-control" required="" placeholder="Email *">
-				             </div>
-				             <div class="form-group">
-				              <textarea rows="3" name="message"  class="form-control" placeholder="Message"></textarea>
-				             </div>
-				             <div class="message" id="success-message">Your message is successfully sent...</div>
-				             <div class="message" id="error-message">Sorry something went wrong</div>
-				             <div class="form-group mb-0">
-				               <button type="submit" class="btn">Contact me</button>
-				             </div>
-						</form>
-				 	</div>
-				 </div>
-	          </div>
-	       </div>
-       </div>
-    </div>
-   </section>
   </div>
 
   <!-- Scrollbar -->
